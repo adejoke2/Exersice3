@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\obj\Debug\net5.0\Loops2.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\obj\Debug\net5.0\Loops2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\obj\Debug\net5.0\Loops2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\obj\Debug\net5.0\Loops2.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\obj\Debug\net5.0\Loops2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\bin\Debug\net5.0\Loops2.exe
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\bin\Debug\net5.0\Loops2.deps.json
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\bin\Debug\net5.0\Loops2.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\bin\Debug\net5.0\Loops2.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\bin\Debug\net5.0\Loops2.dll
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\bin\Debug\net5.0\ref\Loops2.dll
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\bin\Debug\net5.0\Loops2.pdb
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\obj\Debug\net5.0\Loops2.dll
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\obj\Debug\net5.0\ref\Loops2.dll
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\obj\Debug\net5.0\Loops2.pdb
+C:\Users\ADMIN\Desktop\Exercise4\Loops2\obj\Debug\net5.0\Loops2.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Desktop\Exercise4\IfElse1\obj\Debug\net5.0\IfElse1.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Exercise4\IfElse1\obj\Debug\net5.0\IfElse1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Exercise4\IfElse1\obj\Debug\net5.0\IfElse1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Exercise4\IfElse1\obj\Debug\net5.0\IfElse1.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Exercise4\IfElse1\obj\Debug\net5.0\IfElse1.csproj.CoreCompileInputs.cache
